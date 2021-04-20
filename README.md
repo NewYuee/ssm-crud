@@ -122,5 +122,3 @@
 5. ### mybatis操作数据库(mybatis generator-xxxMapper)
 
 6. ### Maven依赖管理&构建（打war包）
-
-7. ### 
